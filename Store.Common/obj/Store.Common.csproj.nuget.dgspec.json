@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Carpet\\Store.Common\\Store.Common.csproj": {}
+    "C:\\projects\\carpet-fork2\\Store.Common\\Store.Common.csproj": {}
   },
   "projects": {
-    "C:\\Carpet\\Store.Common\\Store.Common.csproj": {
+    "C:\\projects\\carpet-fork2\\Store.Common\\Store.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Carpet\\Store.Common\\Store.Common.csproj",
+        "projectUniqueName": "C:\\projects\\carpet-fork2\\Store.Common\\Store.Common.csproj",
         "projectName": "Store.Common",
-        "projectPath": "C:\\Carpet\\Store.Common\\Store.Common.csproj",
+        "projectPath": "C:\\projects\\carpet-fork2\\Store.Common\\Store.Common.csproj",
         "packagesPath": "C:\\Users\\Mosys\\.nuget\\packages\\",
-        "outputPath": "C:\\Carpet\\Store.Common\\obj\\",
+        "outputPath": "C:\\projects\\carpet-fork2\\Store.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mosys\\AppData\\Roaming\\NuGet\\NuGet.Config",

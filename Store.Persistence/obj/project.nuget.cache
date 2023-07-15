@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J4Ggtl9PNusFZITdEINDoAxirh+MQh57JZyj6YKJdk5hDZs7G0FTscp7QEFQH5oTvL0jk04+RAqG+gsOxw27wQ==",
+  "dgSpecHash": "YVQDgdJ0tYI1UQxvtjodiHutz9cyPGnmYW+hYlSURjNZ5zZ63jKD5NkauBUK3BLetuKxdoCETBY7bMJKrzx4vg==",
   "success": true,
-  "projectFilePath": "C:\\Carpet\\Store.Persistence\\Store.Persistence.csproj",
+  "projectFilePath": "C:\\projects\\carpet-fork2\\Store.Persistence\\Store.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mosys\\.nuget\\packages\\bootstrap\\3.3.1\\bootstrap.3.3.1.nupkg.sha512",
     "C:\\Users\\Mosys\\.nuget\\packages\\fluentftp\\46.0.2\\fluentftp.46.0.2.nupkg.sha512",

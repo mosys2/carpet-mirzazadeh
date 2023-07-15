@@ -8588,11 +8588,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Carpet\\Store.Application\\Store.Application.csproj",
+      "projectUniqueName": "C:\\projects\\carpet-fork2\\Store.Application\\Store.Application.csproj",
       "projectName": "Store.Application",
-      "projectPath": "C:\\Carpet\\Store.Application\\Store.Application.csproj",
+      "projectPath": "C:\\projects\\carpet-fork2\\Store.Application\\Store.Application.csproj",
       "packagesPath": "C:\\Users\\Mosys\\.nuget\\packages\\",
-      "outputPath": "C:\\Carpet\\Store.Application\\obj\\",
+      "outputPath": "C:\\projects\\carpet-fork2\\Store.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mosys\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8609,11 +8609,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Carpet\\Store.Common\\Store.Common.csproj": {
-              "projectPath": "C:\\Carpet\\Store.Common\\Store.Common.csproj"
+            "C:\\projects\\carpet-fork2\\Store.Common\\Store.Common.csproj": {
+              "projectPath": "C:\\projects\\carpet-fork2\\Store.Common\\Store.Common.csproj"
             },
-            "C:\\Carpet\\Store.Domain\\Store.Domain.csproj": {
-              "projectPath": "C:\\Carpet\\Store.Domain\\Store.Domain.csproj"
+            "C:\\projects\\carpet-fork2\\Store.Domain\\Store.Domain.csproj": {
+              "projectPath": "C:\\projects\\carpet-fork2\\Store.Domain\\Store.Domain.csproj"
             }
           }
         }

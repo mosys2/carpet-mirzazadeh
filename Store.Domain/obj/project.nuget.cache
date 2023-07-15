@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "53gBt4KP6+Wjw1L5bjAcABgjne2rYw7PaJZn7ytavOw72UpooKOlVN7YVu1GWwh7rWfPc4IpMpeh8emOPHdJKA==",
+  "dgSpecHash": "aE1Jau611QlkxsH/YhXR/od4JV+enOkKvBAU1p03G5jzrVoKt8432WH3TsYzc8b77Tcr2b8kDNw79vEQRMe92Q==",
   "success": true,
-  "projectFilePath": "C:\\Carpet\\Store.Domain\\Store.Domain.csproj",
+  "projectFilePath": "C:\\projects\\carpet-fork2\\Store.Domain\\Store.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mosys\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.5\\microsoft.aspnetcore.cryptography.internal.7.0.5.nupkg.sha512",
     "C:\\Users\\Mosys\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.5\\microsoft.aspnetcore.cryptography.keyderivation.7.0.5.nupkg.sha512",

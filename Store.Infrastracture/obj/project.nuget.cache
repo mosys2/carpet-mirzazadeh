@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "c7JBWlPmUtWWvI4HTlGz/BjJtWHD/azzhAxV2NVPtAG+X8J4k2kH5JE3iw5OiEujFRydAnwk3dlbro3mAmgmig==",
+  "dgSpecHash": "USPkiftpXZ1P7Wf4t2u1B/AEcj+3pxP8WVYBe/WrVZTtSN3RAi74KdOPw//EL81Fk18Z80EAxlWUXR/fdtt3mA==",
   "success": true,
-  "projectFilePath": "C:\\Carpet\\Store.Infrastracture\\Store.Infrastracture.csproj",
+  "projectFilePath": "C:\\projects\\carpet-fork2\\Store.Infrastracture\\Store.Infrastracture.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

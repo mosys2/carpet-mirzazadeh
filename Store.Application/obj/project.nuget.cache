@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3CA9rqGwCWZj0YkIR4CSf+Kh8r7JPMm7hQeNG8nhsoqUKIl7yUqgW9IYsRcMDiLZsaUfIRsYLO92cbHZSYGxYA==",
+  "dgSpecHash": "X5rsjlO9dz5OnUy5n8RJ6kJb+2C4YbHOCh9N14bRP0doFnJXI4nV2/NzU/zsBFdbfRU0U+8ii7CCgqNsShBNxg==",
   "success": true,
-  "projectFilePath": "C:\\Carpet\\Store.Application\\Store.Application.csproj",
+  "projectFilePath": "C:\\projects\\carpet-fork2\\Store.Application\\Store.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mosys\\.nuget\\packages\\fluentftp\\46.0.2\\fluentftp.46.0.2.nupkg.sha512",
     "C:\\Users\\Mosys\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

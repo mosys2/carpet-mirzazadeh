@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PecVZQZqHttnB/iWk1maBVVgPupur8T4qGmsz2sKN/S+8tK1FWe4O9hLMsU2QFXLhZA/oCWlU75K2C4baMPI2w==",
+  "dgSpecHash": "0firHPQtN0DhYrbzvcKRpXFsMDK4oJ9OoGx8Z1/XvkkOfp9U/uxUrPkv2UlTM7ayq7ghzv0momspFyYezkdvGw==",
   "success": true,
-  "projectFilePath": "C:\\Carpet\\EndPointStore\\EndPointStore.csproj",
+  "projectFilePath": "C:\\projects\\carpet-fork2\\EndPointStore\\EndPointStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mosys\\.nuget\\packages\\bootstrap\\3.3.1\\bootstrap.3.3.1.nupkg.sha512",
     "C:\\Users\\Mosys\\.nuget\\packages\\fluentftp\\46.0.2\\fluentftp.46.0.2.nupkg.sha512",

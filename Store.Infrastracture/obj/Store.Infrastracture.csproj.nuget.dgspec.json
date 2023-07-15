@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Carpet\\Store.Infrastracture\\Store.Infrastracture.csproj": {}
+    "C:\\projects\\carpet-fork2\\Store.Infrastracture\\Store.Infrastracture.csproj": {}
   },
   "projects": {
-    "C:\\Carpet\\Store.Infrastracture\\Store.Infrastracture.csproj": {
+    "C:\\projects\\carpet-fork2\\Store.Infrastracture\\Store.Infrastracture.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Carpet\\Store.Infrastracture\\Store.Infrastracture.csproj",
+        "projectUniqueName": "C:\\projects\\carpet-fork2\\Store.Infrastracture\\Store.Infrastracture.csproj",
         "projectName": "Store.Infrastracture",
-        "projectPath": "C:\\Carpet\\Store.Infrastracture\\Store.Infrastracture.csproj",
+        "projectPath": "C:\\projects\\carpet-fork2\\Store.Infrastracture\\Store.Infrastracture.csproj",
         "packagesPath": "C:\\Users\\Mosys\\.nuget\\packages\\",
-        "outputPath": "C:\\Carpet\\Store.Infrastracture\\obj\\",
+        "outputPath": "C:\\projects\\carpet-fork2\\Store.Infrastracture\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Mosys\\AppData\\Roaming\\NuGet\\NuGet.Config",
